@@ -1,0 +1,15 @@
+{
+  "name": "filecoin",
+  "version": "1.0.0",
+  "description": "Working with FVM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derrick",
+  "license": "ISC",
+  "dependencies": {
+    "web3.storage": "^4.5.5"
+  }
+}
